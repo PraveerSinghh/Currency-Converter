@@ -21,7 +21,7 @@ This Java application allows users to convert currencies using graphical user in
 - Any suitable IDE.
 
 ## Installation and Setup
-1. Clone or download the repository from [GitHub](https://github.com/yourrepository)
+1. Clone or download the repository from [GitHub](https://github.com/PraveerSinghh/Currency-Converter)
 2. Ensure you have JDK installed on your system.
 3. Open the project in your preferred Java IDE.
 4. Build and run the project.
